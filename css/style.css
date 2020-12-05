@@ -43,7 +43,7 @@ body {
 }
 .table__items {
     display: flex;
-    margin: 1px 0 1px 0;
+    margin: 0;
 }
 .table__clear {
     width: 150px;
