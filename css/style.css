@@ -69,6 +69,7 @@ body {
     align-items: center;
     text-align: center;
     line-height: 18px;
+    padding: 0;
 }
 .title-main-items {
     margin: 0;
